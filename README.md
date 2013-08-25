@@ -1,5 +1,5 @@
 # Lyk    travis rpesc deneme
-
+<img src="https://travis-ci.org/avispabug/lyk.png?branch=master" alt="Build Status" />
 TODO: Write a gem description
 
 ## Installation
